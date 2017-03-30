@@ -1,0 +1,16 @@
+<customers>
+<customer>
+<customerID>c002</customerID>
+<Firstname>davuid</Firstname>
+<Lastname>giluis</Lastname>
+<Address>fmwj 345</Address>
+<Phone>34526783</Phone>
+</customer>
+<customer>
+<customerID>c001</customerID>
+<Firstname>henny</Firstname>
+<Lastname>giluis</Lastname>
+<Address>fmwj 345</Address>
+<Phone>34526783</Phone>
+</customer>
+</customers>
